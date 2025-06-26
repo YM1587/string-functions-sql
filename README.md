@@ -2,9 +2,9 @@
 ### What This Repo Covers
 Explore how to manipulate and analyze string data using the following functions:
 ### Common String Functions:
-CONCAT() – Combines two or more strings into one.
+```CONCAT()``` – Combines two or more strings into one.
 
-SUBSTRING() / SUBSTR() – Extracts a portion of a string using position and length.
+```SUBSTRING() / SUBSTR()``` – Extracts a portion of a string using position and length.
 
 LENGTH() / CHAR_LENGTH() – Returns the number of characters in a string.
 
